@@ -40,13 +40,14 @@ Building on the success of this project, future work could involve:
 - Continuously refining the Power BI dashboard to incorporate new features and improve user experience.
 
 ## Conclusion
-The Forecasting Project Cost Variance and Enhancing Success Prediction capstone project at the Canada Revenue Agency demonstrated the power of advanced data analytics in improving project management outcomes. Through the development of sophisticated predictive models, creation of an optimized Power BI dashboard, and strategic realignment of project management practices, this project significantly enhanced forecast accuracy and project success rates. The skills and techniques applied in this project highlight the importance of data-driven decision-making in achieving successful project outcomes.
+The Forecasting Project Cost Variance and Enhancing Success Prediction capstone project at the Canada Revenue Agency demonstrated the power of advanced data analytics in improving project management outcomes. Through the development of sophisticated predictive models, creation of an optimized Power BI dashboard, and the strategic realignment of project management practices, this project significantly enhanced forecast accuracy and project success rates. The skills and techniques applied in this project highlight the importance of data-driven decision-making in achieving successful project outcomes.
 
 ## Dashboard 1
-![Dashboard - 1](https://github.com/Tanay-Shah-Raj/CRA-Cost-Variance-Prediction/edit/master/Dashboard%20-%201.png)
+![Dashboard1](https://github.com/Tanay-Shah-Raj/CRA-Cost-Variance-Prediction/raw/master/Dashboard%20-%201.png)
 
 ## Dashboard 2
-![Dashboard - 2](https://github.com/Tanay-Shah-Raj/CRA-Cost-Variance-Prediction/edit/master/Dashboard%20-%202.png)
+![Dashboard2](https://github.com/Tanay-Shah-Raj/CRA-Cost-Variance-Prediction/raw/master/Dashboard%20-%202.png)
 
 ## Dashboard 3
-![Dashboard - 3](https://github.com/Tanay-Shah-Raj/CRA-Cost-Variance-Prediction/edit/master/Dashboard%20-%203.png)
+![Dashboard3](https://github.com/Tanay-Shah-Raj/CRA-Cost-Variance-Prediction/raw/master/Dashboard%20-%203.png)
+
