@@ -43,10 +43,10 @@ Building on the success of this project, future work could involve:
 The Forecasting Project Cost Variance and Enhancing Success Prediction capstone project at the Canada Revenue Agency demonstrated the power of advanced data analytics in improving project management outcomes. Through the development of sophisticated predictive models, creation of an optimized Power BI dashboard, and strategic realignment of project management practices, this project significantly enhanced forecast accuracy and project success rates. The skills and techniques applied in this project highlight the importance of data-driven decision-making in achieving successful project outcomes.
 
 ## Dashboard 1
-![Dashboard1](https://github.com/Tanay-Shah-Raj/CRA-Cost-Variance-Prediction/edit/master/Dashboard%20-%201.png)
+![Dashboard - 1](https://github.com/Tanay-Shah-Raj/CRA-Cost-Variance-Prediction/edit/master/Dashboard%20-%201.png)
 
 ## Dashboard 2
-![Dashboard2](https://github.com/Tanay-Shah-Raj/CRA-Cost-Variance-Prediction/edit/master/Dashboard%20-%202.png)
+![Dashboard - 2](https://github.com/Tanay-Shah-Raj/CRA-Cost-Variance-Prediction/edit/master/Dashboard%20-%202.png)
 
 ## Dashboard 3
-![Dashboard](https://github.com/Tanay-Shah-Raj/CRA-Cost-Variance-Prediction/edit/master/Dashboard%20-%203.png)
+![Dashboard - 3](https://github.com/Tanay-Shah-Raj/CRA-Cost-Variance-Prediction/edit/master/Dashboard%20-%203.png)
