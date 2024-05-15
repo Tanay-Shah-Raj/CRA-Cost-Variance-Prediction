@@ -1,0 +1,7 @@
+﻿Model Applied​,Data Format​,Results(MSE)​
+Linear Regression​,Prepared Data​,4.4572e-20​
+Linear Regression​,Standardized Data​,3.1999e-21​
+Linear Regression​,Data with PCA​,51534722817.22​
+Random Forest​,Prepared Data​,239592.65​
+Random Forest​,Standardized Data​,191310.62​
+MLP Regressor​,Standardized Data​,89.875​
