@@ -65,9 +65,12 @@ The Forecasting Project Cost Variance and Enhancing Success Prediction capstone 
 
 This dashboard provides a comprehensive view of the project portfolio, highlighting key metrics related to cost variance across different project categories. It visualizes the distribution of projects by department, size, and complexity level while displaying critical performance indicators. The color-coded variance indicators offer immediate insight into which projects require attention, allowing project managers to quickly identify areas of concern and take appropriate action.
 
-## Dashboard 2
+## Dashboard 2: Cost Variance Analysis
 ![Dashboard2](https://github.com/Tanay-Shah-Raj/CRA-Cost-Variance-Prediction/raw/master/Dashboard%20-%202.png)
 
-## Dashboard 3
+This dashboard focuses on cost variance analysis across different organizational dimensions. It presents key financial metrics including effort cost, actual cost, and total cost variance. The visualizations break down cost variance by IT Division, IT Section, and change request types, highlighting where the most significant variances occur. The dashboard enables project managers to identify patterns in cost overruns and understand which types of work (development vs. enhancement) tend to experience budget challenges, facilitating more accurate future estimations.
+
+## Dashboard 3: Predictive Model Performance
 ![Dashboard3](https://github.com/Tanay-Shah-Raj/CRA-Cost-Variance-Prediction/raw/master/Dashboard%20-%203.png)
 
+This dashboard showcases the performance results of different machine learning models used to predict cost variance. It compares the effectiveness of MLP Regressor and Linear Regression models across different data formats (standardized vs. prepared data). The visualizations illustrate model accuracy metrics and error rates, with the Sum of Residuals (MSE) displayed to highlight prediction accuracy. This analytical view helps in evaluating which modeling approach provides the most reliable cost variance predictions, supporting data-driven decision-making in project management.
